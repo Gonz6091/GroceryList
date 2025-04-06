@@ -1,0 +1,61 @@
+#MainHeader{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.SectionHeader {
+    border: 2px solid rgb(0, 0, 0);
+    border-width: 2px;
+    background-color: tomato;
+    padding: 10px;
+    width: 55%;
+}
+
+#PantrySection1 {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    width: 25%;   
+    background-color: rgb(149, 119, 119);
+   
+}
+
+#PantrySection2 {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    width: 25%;   
+    background-color: rgb(149, 119, 119);
+}
+
+#Image1 {
+    display: inline-block;
+    padding: 5px;
+    width: 25%; 
+    margin-top: 20px;
+}
+
+#Veggies {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    width: 25%;   
+    background-color: rgb(149, 119, 119);
+}
+
+#Snacks {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    width: 25%;   
+    background-color: rgb(149, 119, 119);
+}
+
+#Image2 {
+    display: inline-block;
+    padding: 5px;
+    width: 25%; 
+    height: auto;
+}
+  
